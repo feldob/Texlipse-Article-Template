@@ -9,17 +9,16 @@ It contains the following Texlipse project folders:
 
 * Material		contains all article related material, bib file, style file,  file, img folder...
 
-X=FOLDER\_NAME
-* Abstract 		write $X here
-* Conclusions 		write $X here
-* Discussion 		write $X here
-* Experiments 		write $X here
-* Intro 		write $X here
-* Method 		write $X here
-* Results 		write $X here
-* Theory 		write $X here
+* _Abstract_ 		write Abstract here \(abstract.tex\)
+* _Conclusions_ 	write Conclusions here \(conclusions.tex\)
+* _Discussion_ 		"
+* _Experiments_ 	"
+* _Intro_ 		"
+* _Method_ 		"
+* _Results_ 		"
+* _Theory_ 		"
 
-Fell free to customize the structure yourself!
+Feel free to customize the structure yourself!
 
 # License
 
