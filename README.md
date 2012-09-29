@@ -11,12 +11,12 @@ It contains the following Texlipse project folders:
 
 * _Abstract_ 	:	write Abstract here \(abstract.tex\)
 * _Conclusions_ :	write Conclusions here \(conclusions.tex\)
-* _Discussion_ 	:	\"
-* _Experiments_ :	\"
-* _Intro_ 	:	\"
-* _Method_ 	:	\"
-* _Results_ 	:	\"
-* _Theory_ 	:	\"
+* _Discussion_ 	:	can you guess? :)
+* _Experiments_ :	...
+* _Intro_ 	:	...
+* _Method_ 	:	...
+* _Results_ 	:	...
+* _Theory_ 	:	...
 
 Feel free to customize the structure yourself!
 
