@@ -1,0 +1,30 @@
+% Template author, Felix Dobslaw. Work under MIT license.
+
+\documentclass[a4paper]{article}
+
+\usepackage{../Material/preamble}
+
+\begin{document}
+
+% Do your changes to the respective chapter files, included by input further
+% down. all changes will be considered in both, this article document, and the
+% local chapter document.
+
+\title{TITLE\\ \small{MY UNIVERSITY: Working Paper I}}
+\author{FIRSTNAME LASTNAME}
+\maketitle
+
+\tableofcontents
+
+\input{../Abstract/abstract}
+\input{../Intro/intro}
+\input{../Theory/theory}
+\input{../Method/method}
+\input{../Results/results}
+\input{../Discussion/discussion}
+\input{../Conclusions/conclusions}
+
+\bibliography{../Material/references}
+\bibliographystyle{alpha}
+
+\end{document}

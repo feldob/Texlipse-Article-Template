@@ -1,0 +1,20 @@
+% a preamble, shared among all chapters
+\ProvidesPackage{preamble}
+
+% examples of packets to be used
+\usepackage{graphics}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+% an example definition for project www.theinput.org
+\newcommand\InPUT{\hspace{1pt}I\kern-.05em
+  {\kern-.05em%
+    \lower-.3ex\hbox{n}}%
+  \kern-.1em
+  P\kern-.17em\hbox{U}\kern-.085em \lower-.009ex\hbox{T\hspace{2pt}}}
+
+% redefine toc name
+\DeclareRobustCommand{\contentsname}{Table of Contents}
+
+% define the path(s) where LaTeX should look for images
+\graphicspath{{../Material/img/}{alternative1/}{alternative2/}}

@@ -1,0 +1,13 @@
+#TeXlipse project settings
+#Sat Sep 29 13:55:23 CEST 2012
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=notes.tex
+outputFile=notes.pdf
+langSpell=en
+markDer=true
+srcDir=
