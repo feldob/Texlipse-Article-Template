@@ -5,19 +5,19 @@ A LaTeX template for Texlipse users. It partitions a research article into multi
 
 It contains the following Texlipse project folders:
 
-* Article \| assembles the article by including all sections, defining title, authors...
+* Article		assembles the article by including all sections, defining title, authors...
 
-* Material \| contains all article related material, bib file, style file,  file, img folder...
+* Material		contains all article related material, bib file, style file,  file, img folder...
 
-X= FOLDER_NAME
-* Abstract \| write $X here
-* Conclusions \| write $X here
-* Discussion \| write $X here
-* Experiments \| write $X here
-* Intro \| write $X here
-* Method \| write $X here
-* Results \| write $X here
-* Theory \| write $X here
+X=FOLDER\_NAME
+* Abstract 		write $X here
+* Conclusions 		write $X here
+* Discussion 		write $X here
+* Experiments 		write $X here
+* Intro 		write $X here
+* Method 		write $X here
+* Results 		write $X here
+* Theory 		write $X here
 
 Fell free to customize the structure yourself!
 
