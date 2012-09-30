@@ -18,7 +18,11 @@ It contains the following Texlipse project folders:
 * _Results_ 	:	...
 * _Theory_ 	:	...
 
-Feel free to customize the structure yourself!
+Feel free to customize the sections yourself!
+
+# Good to know...
+
+Each time you make a change to a section tex file, you have to make sure that Eclipse runs latex on *article.tex* in order to see the changes in the article output. I force a recompile by doing an insignificant change to *article.tex* (such as adding a space somewhere), and save it. If you have a better appraoch, please let me know! :)
 
 # License
 
