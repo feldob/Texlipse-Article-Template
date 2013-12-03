@@ -20,7 +20,6 @@
 \input{../Intro/intro}
 \input{../Theory/theory}
 \input{../Method/method}
-\input{../Experiments/experiments}
 \input{../Results/results}
 \input{../Discussion/discussion}
 \input{../Conclusions/conclusions}
